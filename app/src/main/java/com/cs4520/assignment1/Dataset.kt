@@ -17,7 +17,6 @@ val productsDataset = listOf(
     listOf("Watermelon", "Food", "2024-03-12", 15),
     listOf("Jump Rope", "Equipment", null, 10),
     listOf("Blueberries", "Food", "2024-04-05", 22),
-    listOf("Kettlebell", "Equipment", null, 35),
     listOf("Mango", "Food", "2024-04-10", 33),
     listOf("Rowing Machine", "Equipment", null, 48),
     listOf("Pineapple", "Food", "2024-03-20", 26),
